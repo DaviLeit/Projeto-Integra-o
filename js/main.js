@@ -40,7 +40,6 @@ const busca = async (parametros) => {
 // FUNÇÂO QUE VOCE IRÀ UTILIZAR NA FUNÇÃO DE BUSCA
 // FUNÇÂO QUE VOCE IRÀ UTILIZAR NA FUNÇÃO DE BUSCA
 // FUNÇÂO QUE VOCE IRÀ UTILIZAR NA FUNÇÃO DE BUSCA
-// FUNÇÂO QUE VOCE IRÀ UTILIZAR NA FUNÇÃO DE BUSCA
 const deletaPagina = () => {
     let container = document.getElementById('cards'); // pega o container no HTML
     container.innerHTML = ""; // Substitui o que tem no container para vazio
